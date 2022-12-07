@@ -12,7 +12,7 @@ MATH 4581
 ![alt_text](images/image6.png "image_tooltip")
 
 
-**What question are we trying to answer?**
+## What question are we trying to answer?
 
 In the NFL, the top five football teams based on win percentage (as of December 4th, 2022) are the Buffalo Bills (.750 win pct.), Miami Dolphins (.727 win pct.), Philadelphia Eagles (.917 win pct.), Minnesota Vikings (.833 win pct.), and the Kansas City Chiefs (.818 win pct.). 
 
@@ -43,7 +43,7 @@ Finally, as we conducted our analysis, we realized we wanted to include a more g
 
 We scraped this data manually from Google Sports, wrote it into an Excel spreadsheet, and combined it with the initial dataframe using Python.
 
-**What stats are we using? **
+**What stats are we using?**
 
 For each team, four statistics were taken into account:
 
@@ -58,7 +58,7 @@ Within the data, each team’s averages were based on their first 11 games excep
 
 * **During an NFL game, there are many players that catch or run 1-2 times. Such a contribution was not deemed substantial enough to consider this player a significant player in the game. For this reason, only players with rush or pass contributions greater than 2 were considered in the analysis**
 
-**Results **
+**Results**
 
 Within the testing, each team was associated with a nominal value:
 
