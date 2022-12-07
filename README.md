@@ -1,4 +1,4 @@
-NFL Stochastic Analysis
+# NFL Stochastic Analysis
 
 Lukas Dudzik, Manav Sharma, John Curanaj, Jonathan Als
 
@@ -29,7 +29,7 @@ In order to answer the main question of the analysis, sub questions need to be a
 
 The data from these analyses will help us answer whether or not teams have unique passing and rushing strategies, as well as if their offensive strategies are a team effort or dependent on certain star players. 
 
-**Where did we get the data?**
+## Where did we get the data?
 
 We needed statistics for each game that the top five football teams based on win percentage (as of December 4th, 2022).
 
@@ -43,7 +43,7 @@ Finally, as we conducted our analysis, we realized we wanted to include a more g
 
 We scraped this data manually from Google Sports, wrote it into an Excel spreadsheet, and combined it with the initial dataframe using Python.
 
-**What stats are we using?**
+## What stats are we using?
 
 For each team, four statistics were taken into account:
 
@@ -58,7 +58,7 @@ Within the data, each team’s averages were based on their first 11 games excep
 
 * **During an NFL game, there are many players that catch or run 1-2 times. Such a contribution was not deemed substantial enough to consider this player a significant player in the game. For this reason, only players with rush or pass contributions greater than 2 were considered in the analysis**
 
-**Results**
+## Results
 
 Within the testing, each team was associated with a nominal value:
 
