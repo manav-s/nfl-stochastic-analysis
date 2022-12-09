@@ -8,6 +8,8 @@ Professor John Linde
 
 MATH 4581
 
+![alt_text](images/image6.png "image_tooltip")
+
 ## What question are we trying to answer?
 
 In the NFL, the top five football teams based on win percentage (as of December 4th, 2022) are the Buffalo Bills (.750 win pct.), Miami Dolphins (.727 win pct.), Philadelphia Eagles (.917 win pct.), Minnesota Vikings (.833 win pct.), and the Kansas City Chiefs (.818 win pct.). 
@@ -48,7 +50,7 @@ For each team, four statistics were taken into account:
 
 Within the data, each team’s averages were based on their first 11 games except for the Buffalo Bills, who already had 12 games worth of data.
 
-***During an NFL game, there are many players that catch or run 1-2 times. Such a contribution was not deemed substantial enough to consider this player a significant player in the game. For this reason, only players with rush or pass contributions greater than 2 were considered in the analysis.**
+**During an NFL game, there are many players that catch or run 1-2 times. Such a contribution was not deemed substantial enough to consider this player a significant player in the game. For this reason, only players with rush or pass contributions greater than 2 were considered in the analysis.**
 
 ANOVA tests were run on each of the four variables separately to discover whether or not every team had the same average value. The null hypothesis (H0) in these tests was that all teams had the same mean for a variable, while the alternative hypothesis (H1) was that every team does not have statistically the same mean. Lastly, it is important to note that we were testing at the 5% level (sig = .05).
 
