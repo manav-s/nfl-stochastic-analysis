@@ -79,9 +79,15 @@ For the Bonferroni tests, each team was attributed with a nominal value:
 
 5 → Chiefs
 
+![alt_text](images/image2.png "image_tooltip")
+
 The Bonferroni test done on average pass yards has us rejecting the null between the mean values of the Eagles and Chiefs (sig. = .045). Furthermore, looking at the descriptive statistics (found in the appendix) of the data shows that the Eagles averaged 219.82 yards per game, while the Chiefs averaged 315.18 yards per game. 
 
+![alt_text](images/image3.png "image_tooltip")
+
 The Bonferroni test done on average rush yards has us rejecting the null between the mean values of both the Eagles and Dolphins (sig. = .019) and the Eagles and Vikings (sig. = .036). Looking at the descriptive statistics, we see that the Eagles averaged 162.55 rushing yards per game while the Dolphins and Vikings averaged 94.82 and 99.36 respectively. 
+
+![alt_text](images/image4.png "image_tooltip")
 
 The Bonferroni test done on the average number of players with significant rush contributions has us rejecting the null between the mean values of the Vikings and Bills (sig. = .037), the Vikings and Eagles (sig. = .008), and the Vikings and Chiefs (sig. = .020). Looking at the descriptive statistics, we see that the Vikings averaged 2.00 players when rushing the ball, while the Bills, Eagles and Chiefs averaged 2.92, 3.09, and 3.00 players respectively. 
 
@@ -97,5 +103,5 @@ Based on the results shown above, some key insights were made to finalize the ma
 
 ## Appendix
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](images/image5.png "image_tooltip")
 
